@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "Algorithm",
+          "type": "LIST_OF_ALGORITHMS"
+        }
+      ],
+      "intent": "GetUpperBound"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+GetUpperBound what is the upper bound for {Algorithm}
+GetUpperBound what is the upper bound of {Algorithm}
+GetUpperBound what's the upper bound for {Algorithm}
+GetUpperBound what's the upper bound of {Algorithm}
+GetUpperBound tell the upper bound for {Algorithm}
+GetUpperBound tell the upper bound of {Algorithm}
+GetUpperBound give the upper bound for {Algorithm}
+GetUpperBound give the upper bound of {Algorithm}
+GetUpperBound get the upper bound for {Algorithm}
+GetUpperBound get the upper bound of {Algorithm}
+GetUpperBound find the upper bound for {Algorithm}
+GetUpperBound find the upper bound of {Algorithm}
+GetUpperBound tell me the upper bound for {Algorithm}
+GetUpperBound tell me the upper bound of {Algorithm}
+GetUpperBound give me the upper bound for {Algorithm}
+GetUpperBound give me the upper bound of {Algorithm}
+GetUpperBound get me the upper bound for {Algorithm}
+GetUpperBound get me the upper bound of {Algorithm}
+GetUpperBound find me the upper bound for {Algorithm}
+GetUpperBound find me the upper bound of {Algorithm}
+GetUpperBound what is the big oh for {Algorithm}
+GetUpperBound what is the big oh of {Algorithm}
+GetUpperBound what's the big oh for {Algorithm}
+GetUpperBound what's the big oh of {Algorithm}
+GetUpperBound tell the big oh for {Algorithm}
+GetUpperBound tell the big oh of {Algorithm}
+GetUpperBound give the big oh for {Algorithm}
+GetUpperBound give the big oh of {Algorithm}
+GetUpperBound get the big oh for {Algorithm}
+GetUpperBound get the big oh of {Algorithm}
+GetUpperBound find the big oh for {Algorithm}
+GetUpperBound find the big oh of {Algorithm}
+GetUpperBound tell me the big oh for {Algorithm}
+GetUpperBound tell me the big oh of {Algorithm}
+GetUpperBound give me the big oh for {Algorithm}
+GetUpperBound give me the big oh of {Algorithm}
+GetUpperBound get me the big oh for {Algorithm}
+GetUpperBound get me the big oh of {Algorithm}
+GetUpperBound find me the big oh for {Algorithm}
+GetUpperBound find me the big oh of {Algorithm}
+GetUpperBound what is the big omicron for {Algorithm}
+GetUpperBound what is the big omicron of {Algorithm}
+GetUpperBound what's the big omicron for {Algorithm}
+GetUpperBound what's the big omicron of {Algorithm}
+GetUpperBound tell the big omicron for {Algorithm}
+GetUpperBound tell the big omicron of {Algorithm}
+GetUpperBound give the big omicron for {Algorithm}
+GetUpperBound give the big omicron of {Algorithm}
+GetUpperBound get the big omicron for {Algorithm}
+GetUpperBound get the big omicron of {Algorithm}
+GetUpperBound find the big omicron for {Algorithm}
+GetUpperBound find the big omicron of {Algorithm}
+GetUpperBound tell me the big omicron for {Algorithm}
+GetUpperBound tell me the big omicron of {Algorithm}
+GetUpperBound give me the big omicron for {Algorithm}
+GetUpperBound give me the big omicron of {Algorithm}
+GetUpperBound get me the big omicron for {Algorithm}
+GetUpperBound get me the big omicron of {Algorithm}
+GetUpperBound find me the big omicron for {Algorithm}
+GetUpperBound find me the big omicron of {Algorithm}
+GetUpperBound what is the asymptotic upper bound for {Algorithm}
+GetUpperBound what is the asymptotic upper bound of {Algorithm}
+GetUpperBound what's the asymptotic upper bound for {Algorithm}
+GetUpperBound what's the asymptotic upper bound of {Algorithm}
+GetUpperBound tell the asymptotic upper bound for {Algorithm}
+GetUpperBound tell the asymptotic upper bound of {Algorithm}
+GetUpperBound give the asymptotic upper bound for {Algorithm}
+GetUpperBound give the asymptotic upper bound of {Algorithm}
+GetUpperBound get the asymptotic upper bound for {Algorithm}
+GetUpperBound get the asymptotic upper bound of {Algorithm}
+GetUpperBound find the asymptotic upper bound for {Algorithm}
+GetUpperBound find the asymptotic upper bound of {Algorithm}
+GetUpperBound tell me the asymptotic upper bound for {Algorithm}
+GetUpperBound tell me the asymptotic upper bound of {Algorithm}
+GetUpperBound give me the asymptotic upper bound for {Algorithm}
+GetUpperBound give me the asymptotic upper bound of {Algorithm}
+GetUpperBound get me the asymptotic upper bound for {Algorithm}
+GetUpperBound get me the asymptotic upper bound of {Algorithm}
+GetUpperBound find me the asymptotic upper bound for {Algorithm}
+GetUpperBound find me the asymptotic upper bound of {Algorithm}
+GetUpperBound what is the asymptotic bound for {Algorithm}
+GetUpperBound what is the asymptotic bound of {Algorithm}
+GetUpperBound what's the asymptotic bound for {Algorithm}
+GetUpperBound what's the asymptotic bound of {Algorithm}
+GetUpperBound tell the asymptotic bound for {Algorithm}
+GetUpperBound tell the asymptotic bound of {Algorithm}
+GetUpperBound give the asymptotic bound for {Algorithm}
+GetUpperBound give the asymptotic bound of {Algorithm}
+GetUpperBound get the asymptotic bound for {Algorithm}
+GetUpperBound get the asymptotic bound of {Algorithm}
+GetUpperBound find the asymptotic bound for {Algorithm}
+GetUpperBound find the asymptotic bound of {Algorithm}
+GetUpperBound tell me the asymptotic bound for {Algorithm}
+GetUpperBound tell me the asymptotic bound of {Algorithm}
+GetUpperBound give me the asymptotic bound for {Algorithm}
+GetUpperBound give me the asymptotic bound of {Algorithm}
+GetUpperBound get me the asymptotic bound for {Algorithm}
+GetUpperBound get me the asymptotic bound of {Algorithm}
+GetUpperBound find me the asymptotic bound for {Algorithm}
+GetUpperBound find me the asymptotic bound of {Algorithm}
+GetUpperBound what is the complexity for {Algorithm}
+GetUpperBound what is the complexity of {Algorithm}
+GetUpperBound what's the complexity for {Algorithm}
+GetUpperBound what's the complexity of {Algorithm}
+GetUpperBound tell the complexity for {Algorithm}
+GetUpperBound tell the complexity of {Algorithm}
+GetUpperBound give the complexity for {Algorithm}
+GetUpperBound give the complexity of {Algorithm}
+GetUpperBound get the complexity for {Algorithm}
+GetUpperBound get the complexity of {Algorithm}
+GetUpperBound find the complexity for {Algorithm}
+GetUpperBound find the complexity of {Algorithm}
+GetUpperBound tell me the complexity for {Algorithm}
+GetUpperBound tell me the complexity of {Algorithm}
+GetUpperBound give me the complexity for {Algorithm}
+GetUpperBound give me the complexity of {Algorithm}
+GetUpperBound get me the complexity for {Algorithm}
+GetUpperBound get me the complexity of {Algorithm}
+GetUpperBound find me the complexity for {Algorithm}
+GetUpperBound find me the complexity of {Algorithm}
+GetUpperBound what is the computational complexity for {Algorithm}
+GetUpperBound what is the computational complexity of {Algorithm}
+GetUpperBound what's the computational complexity for {Algorithm}
+GetUpperBound what's the computational complexity of {Algorithm}
+GetUpperBound tell the computational complexity for {Algorithm}
+GetUpperBound tell the computational complexity of {Algorithm}
+GetUpperBound give the computational complexity for {Algorithm}
+GetUpperBound give the computational complexity of {Algorithm}
+GetUpperBound get the computational complexity for {Algorithm}
+GetUpperBound get the computational complexity of {Algorithm}
+GetUpperBound find the computational complexity for {Algorithm}
+GetUpperBound find the computational complexity of {Algorithm}
+GetUpperBound tell me the computational complexity for {Algorithm}
+GetUpperBound tell me the computational complexity of {Algorithm}
+GetUpperBound give me the computational complexity for {Algorithm}
+GetUpperBound give me the computational complexity of {Algorithm}
+GetUpperBound get me the computational complexity for {Algorithm}
+GetUpperBound get me the computational complexity of {Algorithm}
+GetUpperBound find me the computational complexity for {Algorithm}
+GetUpperBound find me the computational complexity of {Algorithm}
+GetUpperBound what is the runtime complexity for {Algorithm}
+GetUpperBound what is the runtime complexity of {Algorithm}
+GetUpperBound what's the runtime complexity for {Algorithm}
+GetUpperBound what's the runtime complexity of {Algorithm}
+GetUpperBound tell the runtime complexity for {Algorithm}
+GetUpperBound tell the runtime complexity of {Algorithm}
+GetUpperBound give the runtime complexity for {Algorithm}
+GetUpperBound give the runtime complexity of {Algorithm}
+GetUpperBound get the runtime complexity for {Algorithm}
+GetUpperBound get the runtime complexity of {Algorithm}
+GetUpperBound find the runtime complexity for {Algorithm}
+GetUpperBound find the runtime complexity of {Algorithm}
+GetUpperBound tell me the runtime complexity for {Algorithm}
+GetUpperBound tell me the runtime complexity of {Algorithm}
+GetUpperBound give me the runtime complexity for {Algorithm}
+GetUpperBound give me the runtime complexity of {Algorithm}
+GetUpperBound get me the runtime complexity for {Algorithm}
+GetUpperBound get me the runtime complexity of {Algorithm}
+GetUpperBound find me the runtime complexity for {Algorithm}
+GetUpperBound find me the runtime complexity of {Algorithm}
